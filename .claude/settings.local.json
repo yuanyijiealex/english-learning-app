@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat:*)",
+      "Bash(dir)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "Bash(powershell:*)",
+      "Bash(where bash)",
+      "Bash(cmd:*)",
+      "Bash(npm run dev:*)",
+      "Bash(ipconfig)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
